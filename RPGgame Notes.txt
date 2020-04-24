@@ -1,7 +1,0 @@
-Character Creation
-Start in cave which serves as tutorial
-Cave has randomly generated areas and some skills to learn
-After cave return to town
-Adventuring is a 9 to 5 job
-Player feels empty
-Different companies/guilds
